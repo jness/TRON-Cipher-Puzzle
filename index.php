@@ -55,6 +55,7 @@ foreach ( $letters as $letter ) {
 }
 
 echo "<html><body bgcolor='black'>";
+echo '<a href="https://github.com/jness/TRON-Cipher-Puzzle"><font size=2 color=#6cc7d9>Source Available from Github</font></a>';
 echo '<h2><img width=200 src="tron_legacy_logo.jpg"></h2>';
 
 # Build my Character Map
@@ -145,5 +146,7 @@ echo "<input type=hidden name='id' value=$id>";
 echo "<input type=hidden name='key' value=$key>";
 echo '<input type="submit" value="Submit" />';
 echo '</form>';
+echo "<br><br>";
+echo '<font size=1 color=#6cc7d9>The Tron Legacy logo is a registered trademark of The Walt Disney Company.</font></a>';
 echo "</body></html>";
 ?>

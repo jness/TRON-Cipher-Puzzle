@@ -41,4 +41,7 @@ if ( $input == $answer ) {
     echo '</form>';
 }
 
+echo "<br><br>";
+echo '<font size=1 color=#6cc7d9>The Tron Legacy logo is a registered trademark of The Walt Disney Company.</font></a>';
+
 ?>
